@@ -34,6 +34,7 @@ Each dataset contains:
 
 * **Small Sample (`limit-small`):** A smaller version with only the 46 documents relevant to the queries.
   * [Link to `data/limit-small`](./data/limit-small)
+  * [Link to `data/limit-small-synonyms` HF version]([./data/limit-small](https://huggingface.co/datasets/orionweller/LIMIT-small-synonyms))
 
 ## Code
 
